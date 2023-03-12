@@ -1,0 +1,15 @@
+.flash {
+  background: #f6f9fc;
+  padding: 50px 0;
+}
+.f_flex {
+  display: flex;
+}
+.f_flex h1 {
+  color: rgb(203, 28, 46);
+}
+.img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem 0 1rem 0;
+}
